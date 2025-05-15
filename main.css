@@ -1,36 +1,41 @@
 h1 {
     font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 60px;
+    padding-top: 30px;
+    margin: auto;
+    font-weight: bold;
+    text-decoration: solid;
+    color: black;
+    background-color: white;
 }
 
 h2 {
     font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    margin: 15px;
+    font-weight: normal;
+    color: black;
+    background-color: white;
 }
 
 p {
-    font-family: ;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    color: black;
+    background-color: white;
 }
 
 .logo {
     background-size: cover;
-    background-image: url();
+    background-image: url(https://avatars.githubusercontent.com/u/2138704?s=200&v=4);
     background-color: ;
     height: ;
     width: ;
